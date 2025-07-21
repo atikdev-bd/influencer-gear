@@ -44,3 +44,56 @@ ul li a {
     text-decoration: none;
 
 }
+
+/* header  styles */
+
+header {
+    justify-content: center;
+    display: flex;
+    gap: 120px;
+    align-items: center;
+}
+
+header {
+    margin-top: 140px;
+}
+
+
+
+header h1 {
+    font-size: 52px;
+    font-weight: bold;
+    color: #3A3A3A;
+}
+
+header p {
+    font-size: 16px;
+    color: #3A3A3A;
+    font-weight: 600;
+
+}
+
+.btn {
+    background-color: #E02C6D;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    border: none;
+    border-radius: 41px;
+
+}
+
+.img-div {
+    background-image: url(images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    width: 476px;
+    height: 476px;
+
+}
+
+img {
+    width: 100%;
+}
+
+/* header style end */
